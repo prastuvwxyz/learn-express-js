@@ -1,0 +1,1 @@
+update students set emergency_contact = '08222222222', updated_at = now() where id = 9;
